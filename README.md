@@ -1,1 +1,1 @@
-# AI-Chat-Avator
+# AI-Chat-Avatar
